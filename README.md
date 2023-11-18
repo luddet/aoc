@@ -1,0 +1,2 @@
+# aoc
+CLI for AdventOfCode
